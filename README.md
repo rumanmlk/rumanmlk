@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ruman Malik
 
-<!--
-**rumanmlk/rumanmlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer at [ExD](https://www.linkedin.com/company/exdnow) in Lahore.
 
-Here are some ideas to get you started:
+I ship production demand-forecasting (FastAPI, React, LightGBM, PostgreSQL) and contribute to multi-agent LLM systems (Django, OpenAI, Anthropic, Gemini, xAI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Public work** (company products stay private):
+
+| Project | What it is |
+| --- | --- |
+| [Lexio](https://github.com/rumanmlk/Lexio) | Document-grounded legal Q&A (RAG, LangChain, FAISS, Ollama) |
+| [DGA-Detection](https://github.com/rumanmlk/DGA-Detection) | Domain-generation detection on 200k+ records |
+| Rice Quality Check (FYP) | 8 rice varieties + adulteration, 92% avg accuracy — add the public repo URL when it exists |
+
+Python · TypeScript · FastAPI · Django · React · PostgreSQL · LightGBM · Docker
+
+[LinkedIn](https://www.linkedin.com/in/ruman-malik) · rumanmlk123@gmail.com
