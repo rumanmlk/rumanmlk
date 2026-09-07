@@ -15,5 +15,3 @@ I ship production demand-forecasting (FastAPI, React, LightGBM, PostgreSQL) and 
 Python · TypeScript · FastAPI · Django · React · PostgreSQL · LightGBM · Docker
 
 [LinkedIn](https://www.linkedin.com/in/ruman-malik) · rumanmlk123@gmail.com
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rumanmlk&layout=compact&hide=html,css,jupyter%20notebook)
